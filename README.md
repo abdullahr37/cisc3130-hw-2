@@ -67,5 +67,5 @@ ArrayLists can grow and shrink dynamically.
 
 I found ArrayList much easier to use for this type of application.
 
-==================
-PS: this was all uploaded so last second because i forgot to submit it and i woke up the day of class sick.
+PS:
+This was uploaded last second because I forgot to submit it earlier, and I also woke up sick the day of class.
